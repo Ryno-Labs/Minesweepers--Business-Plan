@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Minesweepers | Growth Playbook",
+  "short_name": "Minesweepers",
+  "description": "Simeon\u2019s 26-week field guide to four full routes. Built by Seek & Scale.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7ef",
+  "theme_color": "#07543c",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
